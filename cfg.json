@@ -1,0 +1,10 @@
+{
+    "GameUrlListSSL" :
+    [
+        "https://testssl.a6m7du.com:26100"
+    ],
+    "GameUrlList" :
+    [
+        "http://testssl.a6m7du.com:26200"
+    ]
+}
