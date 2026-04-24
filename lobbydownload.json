@@ -2,9 +2,6 @@
     "download" :
     [
         "https://testssl.a6m7du.com/games/"
-    ],
-    "service" :
-    [
-        "https://direct.lc.chat/17846553/"
-    ]
+    ]，
+    "service" :"https://direct.lc.chat/17846553/"
 }
